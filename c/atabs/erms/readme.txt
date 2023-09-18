@@ -20,7 +20,7 @@ absent, record perst control, record weather condition, and lots more
 
 7. Import ermsdb.sql file(given inside the zip package in sql file folder)
 
-7.Run the script http://localhost/erms (frontend)
+8.Run the script http://localhost/erms (frontend)
 
 Credential for user panel :
 
