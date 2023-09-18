@@ -14,7 +14,7 @@ absent, record perst control, record weather condition, and lots more
 
 4.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-4. Open phpmyadmin (http://localhost/phpmyadmin)
+5. Open phpmyadmin (http://localhost/phpmyadmin)
 
 5. Create a database with name ermsdb
 
