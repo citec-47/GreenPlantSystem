@@ -10,7 +10,7 @@ absent, record perst control, record weather condition, and lots more
 
 2.Download  XAMPP Version: 5.6.19
 
-2. Extract the file and copy c folder and Paste it in htdocs
+3. Extract the file and copy c folder and Paste it in htdocs
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
