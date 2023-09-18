@@ -16,7 +16,7 @@ absent, record perst control, record weather condition, and lots more
 
 5. Open phpmyadmin (http://localhost/phpmyadmin)
 
-5. Create a database with name ermsdb
+6. Create a database with name ermsdb
 
 6. Import ermsdb.sql file(given inside the zip package in sql file folder)
 
